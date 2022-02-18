@@ -1,7 +1,11 @@
 package Capgemini.Testes.com;
 
 public class Teste3 {
-
+	/*
+	*@author JOELSON
+	* Este algorítimo calcula o fatorial das Strings que forem setadas como argumento para o método
+	* @param nome
+	*/
 	public static void Anagrama(String nome) {
 		char[] array = nome.toCharArray();
 		int cont = 1;
